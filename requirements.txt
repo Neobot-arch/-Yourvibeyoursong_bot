@@ -1,5 +1,0 @@
-pyrogram
-tgcrypto
-py-tgcalls
-yt-dlp
-youtube-search-python
